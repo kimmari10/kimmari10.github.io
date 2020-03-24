@@ -6,7 +6,9 @@
 
 ## 2. 영상
  * **인프런-스프링부트**
+ >https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8
  * **Tacademy JPA**
+ >https://youtu.be/WfrSN9Z7MiA
  
 ## 3. 스터디
  * **광주 웹스터디 모임**
