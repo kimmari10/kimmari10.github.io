@@ -15,6 +15,9 @@
  > [mappedBy 설명2](https://www.youtube.com/watch?v=0zTtkIYMOIw)   
  > [mappedBy 설명3](https://www.youtube.com/watch?v=hsSc5epPXDs)
 
+
+## 3. 블로그
+ * **[람다](http://www.eriklievaart.com/blog/lambda.html)**
  
-## 3. 스터디
+## 4. 스터디
  * **[광주 웹스터디 모임](http://study.gwangju.kr)**
