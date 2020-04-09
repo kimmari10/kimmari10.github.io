@@ -15,7 +15,7 @@
  > [mappedBy 설명2](https://www.youtube.com/watch?v=0zTtkIYMOIw)   
  > [mappedBy 설명3](https://www.youtube.com/watch?v=hsSc5epPXDs)
 ### 2-4. TDD
- * **[Youtube-백명석](https://www.youtube.com/watch?v=wmHV6L0e1sU&index=7&t=1538s&list=PLagTY0ogyVkIl2kTr08w-4MLGYWJz7lNK)*
+ * **[Youtube-백명석](https://www.youtube.com/watch?v=wmHV6L0e1sU&index=7&t=1538s&list=PLagTY0ogyVkIl2kTr08w-4MLGYWJz7lNK)**
 
 ## 3. 블로그
  * **[람다](http://www.eriklievaart.com/blog/lambda.html)**
