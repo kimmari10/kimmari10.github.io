@@ -25,7 +25,7 @@
  * **[광주 웹스터디 모임](http://study.gwangju.kr)**
  
 ## Libraries
- * **Lombok**
+ * **[Lombok](https://cheese10yun.github.io/lombok/)**
  * **Tiles**
 
 ## DevOps
