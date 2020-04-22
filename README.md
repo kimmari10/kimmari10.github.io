@@ -3,7 +3,7 @@
 ## 1. 도서
  * **CleanCode**
  * **[스프링 부트와 aws로 혼자 구현하는 웹 서비스](https://github.com/kimmari10/freelec-springboot2-webservice)**
- * **[자바 ORM 표준 JPA 프로그래밍]**
+ * **[자바 ORM 표준 JPA 프로그래밍](https://github.com/holyeye/jpabook)**
 
 ## 2. 영상
 ### 2-1. 스프링
